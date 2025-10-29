@@ -1,0 +1,18 @@
+# Workforce Scheduling Benchmarks - Requirements
+# Python 3.8+
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization (optional but recommended)
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter notebooks (optional)
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# For future enhancements
+# scipy>=1.7.0  # For advanced optimization
+# pulp>=2.5.0   # For linear programming
